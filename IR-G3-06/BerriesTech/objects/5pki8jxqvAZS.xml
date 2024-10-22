@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5pki8jxqvAZS" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Como hemos podido ver anteriormente vamos a tener la necesidad de modelar dos grandes procesos:
+
+1. **Recogida de información**: vamos a tener que recoger toda la información generada por la planta en tiempo real, así como analizarla para poder sacar análisis que pasarles a los jefes de operaciones.
+
+2. **Asignación y monitereo de recursos**: como hemos visto anteriormente una gran parte de nuestro problema va a consistir en poder hacer un seguimiento de todos los recursos y procesos realizados en tiempo real. Esto nos permitirá ser capaces de asignar a cada proceso los recursos necesarios dentro de los disponibloe.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

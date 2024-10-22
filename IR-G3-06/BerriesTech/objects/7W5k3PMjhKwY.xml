@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7W5k3PMjhKwY" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Antes de empezar debemos tener claro cuál es el objetivo de nuestro cliente.
+
+Nuestro cliente, CoopHuelva, una empresa de insumo, la cuál recibe gran parte de sus ingresos del tratamiento de "berries" en una planta de procesamiento. La empresa desea digitalizar esta planta para obtener una mayor eficiencia y poder recolectar una mayor cantidad de datos, los cuales le ayudaran en un futuro a optimizar aún mas la planta.
+
+Esta digitalización desean llevarla acabo mediante la utilización de un sistema MES]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
