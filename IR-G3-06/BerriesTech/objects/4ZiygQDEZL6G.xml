@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4ZiygQDEZL6G" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Rol de Socio]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-04</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[**2  Reglas de Negocio para el Rol de Socio**
+
+
+**RN-S01:** El socio solo puede ver y gestionar la información de sus parcelas y las de su familia.
+
+
+**RN-S02:** El socio debe notificar el inicio de la recolección en una parcela específica.
+
+
+**RN-S03:** El socio puede activar o desactivar los cultivos para la actualización de previsiones.
+
+
+**RN-S04:** El socio debe notificar los tratamientos aplicados a sus cultivos (permitiendo registrar varios tratamientos).
+
+
+**RN-S05:** Las parcelas de un socio se marcarán en rojo si exceden el tiempo definido sin reportes de actividad, de acuerdo con los días específicos para cada variedad.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
