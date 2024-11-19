@@ -7,8 +7,8 @@ expanded_objects:
   3JoRTCQduvN9: false
   3Ktrn7NrgV5q: true
   3LyaJUsAmkkP: true
+  3MJL5d3NoRto: false
   3NczbRPBeUWb: true
-  3PCvLobxHaQu: true
   3Q72ZjACEWjQ: false
   3QRRtHbD39at: false
   3RRApHagX8Sc: false
@@ -31,20 +31,21 @@ expanded_objects:
   4FYG4x4THEuo: false
   4G3BXcLinFNU: true
   4HRm5FVTyBQX: true
+  4Jk4454SBAAG: false
   4NNJVrLqj7GC: false
   4Nhn6yYEzEMP: true
-  4PgE8QTYZG5o: false
+  4PgE8QTYZG5o: true
   4Rmgn2WAPDCT: false
   4WvcuVy6d3pz: false
   4ZiygQDEZL6G: false
   4cizAFfs3oo7: true
   4d6qQyR7RZa4: true
   4dwc4a2jpBNE: false
+  4fP36SrRM5ME: false
   4faEHS7cufLC: true
   4ftTDiEFgnew: false
   4gPWnhNCnKg6: true
   4kNiUERUXUyf: true
-  4kjBQjq58zZ2: true
   4sGjyBezcGrE: false
   4woVMooggLsk: true
   4x3rPxn2uobD: false
@@ -74,6 +75,7 @@ expanded_objects:
   6JTEXr5WrFiC: false
   6K2d6fp9YrED: false
   6KTjFyjfK3b3: false
+  6Ly7GJMGTcd3: false
   6P5wznzRNgDW: true
   6RNcH6HDqSMt: true
   6TJkrUZfubos: false
@@ -143,9 +145,10 @@ expanded_objects:
   nufsn8QCbGHV: true
   orJTku2FCsNF: true
   zcVz5tYAcuvm: true
+opened_views:
+- default
 selected_document: ers
 selected_objects:
-  7m2g63SRqpFN: null
   das: 6RNcH6HDqSMt
-  ers: ZnJkv7TBLxM4
+  ers: null
 selected_view: default

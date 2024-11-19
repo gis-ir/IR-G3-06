@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[RC-001 Mostrar parcelas inactivas.
+    <markdownProperty name="text" category="detail"><![CDATA[**RC-001 Mostrar parcelas inactivas.**
 
 Pasado una cantidad de días elegida por el administrador sin recolectar una parcela se mostrará roja y se notificará al controlador.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
