@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6JTEXr5WrFiC" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-19</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[1. **Interfaz intuitiva**: La aplicación debe ser fácil de usar para diferentes roles (socio, controlador, administrador) con interfaces adaptadas a cada perfil.
+
+
+2. **Mapa interactivo**: El socio debe visualizar sus parcelas en un mapa de manera clara y precisa.
+
+3. **Gestión de roles**: Los usuarios deben poder gestionar roles y funciones sin necesidad de asistencia técnica especializada.
+Feedback inmediato: La aplicación debe ofrecer notificaciones o mensajes claros ante errores o acciones requeridas]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
