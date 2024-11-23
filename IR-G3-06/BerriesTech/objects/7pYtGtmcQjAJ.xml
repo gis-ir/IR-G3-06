@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7pYtGtmcQjAJ" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Introducción empresa]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-23</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[La Sociedad Cooperativa Andaluza Costa de Huelva (Coophuelva) es una empresa distribuidora de berries con un fuerte carácter de economía social, dedicada a la comercialización de las producciones agrícolas de sus socios.
+
+
+
+
+
+El motivo de una cooperativa es sin ánimo de lucro, nace por la unión de numerosos socios agricultores que en vez de realizar su actividad económica individualmente, se une para poder comprar con mejores precios, para gestionar la fruta mejor, para tener un equipo técnico que le da soporte a todo , al final, ese es el objetivo de una cooperativa.
+
+
+
+
+
+La empresa contrata entorno a 70 personas fijas, pero en campaña se ampliará en 400-500.
+
+
+
+La jerarquía de la empresa empieza con el Presidente que es un socio que forma parte del consejo rector. 
+
+
+
+Después está una figura de alto trabajador y la más importante que es el Gerente, el cargo más importante dentro de la cooperativa, de él cuelga la asesoría y la gestoría. El Gerente está en contacto con el Consejo rector y el Presidente. 
+
+
+
+Hay otra figura importante que es el Director de operaciones que también está en conexión con el Consejo rector y el Gerente. Trata con lo que influye en la nave, logística , calidad, tema de almacén, tema de suministros, nuevas instalaciones. 
+Exactamente los departamentos que lleva son:
+
+Servicio técnico que le dan soporte a los socios;
+
+Departamento de Calidad que verifica la fruta y decide a que mercado va; 
+
+Departamento de Producción que lleva la gestión de la nave, el tema de manipulado, la logística; 
+
+Departamento de Mantenimiento para dar soporte a las distintas máquinas que tiene la empresa; 
+
+Departamento de Almacén;
+
+Departamento de Informática y sistemas cuelga de asesoría, pero debido a que en producción se producen los mayores cambios de proceso e innovacion el Gerente decidió que colgará del Director de operaciones. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
