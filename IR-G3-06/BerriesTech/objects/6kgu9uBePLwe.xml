@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6kgu9uBePLwe" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Restricciones tecnicas]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Elementos clave:
+
+
+- Infraestructura existente:
+  	- El sistema debe integrarse con la infraestructura de CoopHuelva, incluyendo los dispositivos utilizados actualmente en la planta de producción y el ERP en uso.
+ 	 - Limitaciones en el presupuesto para la adquisición de nuevos equipos o software.
+
+
+- Disponibilidad de conectividad:
+  	- La planta de procesamiento debe garantizar la conectividad estable para el sistema MES. 
+  	- Soporte para operación offline con sincronización posterior en áreas con conectividad limitada.
+
+
+- Compatibilidad del hardware:
+  	- El sistema debe operar en los dispositivos actuales utilizados por los empleados, como ordenadores en oficina y tablets o dispositivos móviles en campo.
+ 	 - Las máquinas de procesamiento y los dispositivos de recolección de datos existentes deben ser compatibles con el sistema (por ejemplo, mediante integración con sensores o software de monitoreo).
+
+
+- Capacidad de escalabilidad:
+ 	 - El sistema debe poder manejar incrementos significativos en el volumen de datos durante la temporada de campaña, cuando el personal aumenta de 70 a 400-500 personas.
+
+
+- Regulaciones y estándares:
+  	- Cumplimiento con normativas específicas aplicables al sector agrícola y de procesamiento de alimentos, incluyendo estándares de calidad y trazabilidad (ej., GlobalG.A.P., ISO 22000, o similares).
+  	- Cumplir con el RGPD (Reglamento General de Protección de Datos) al manejar información de socios y empleados.
+
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

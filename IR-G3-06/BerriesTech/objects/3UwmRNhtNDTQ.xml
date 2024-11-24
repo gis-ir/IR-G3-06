@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3UwmRNhtNDTQ" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[4.Pagina recolección]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[**4.Pagina recolección.**
+
+Elementos clave:
+
+- Campos de entrada y selección:
+
+	- Fruta Recolectada: Menú desplegable para seleccionar el tipo de fruta recolectada.
+	- Método de Recolección: Menú desplegable para especificar cómo se realizó la recolección.
+
+	- Variedad y Cantidad: Campos de texto para ingresar información específica sobre la variedad de fruta y la cantidad recolectada.
+
+	- Fertilizantes e Insecticidas: Menús desplegables para detallar los insumos aplicados.
+
+	- Otros Tratamientos: Campo de texto para especificar tratamientos adicionales.
+
+	- Comentarios Adicionales: Espacio para observaciones o detalles extras.
+
+- Botones de acción:
+
+	- Cancelar: Botón rojo para descartar o anular el registro.
+
+	- Confirmar: Botón verde para guardar los datos ingresados.
+
+- Elementos visuales:
+
+	- Icono de casa para volver a la pantalla principal.
+
+	- Logo de "Coop Huelva" en la esquina superior derecha, representando la cooperativa.
+
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
