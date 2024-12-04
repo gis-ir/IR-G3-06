@@ -27,7 +27,6 @@
 **RN-C06:** El controlador podrá ver el teléfono, nombre, perito y la ubicación para facilitar el acceso a las parcelas.
 
 
-**RN-C07:** El controlador puede añadir información sobre la ubicación y las visitas realizadas al agricultor, visible para el administrador.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

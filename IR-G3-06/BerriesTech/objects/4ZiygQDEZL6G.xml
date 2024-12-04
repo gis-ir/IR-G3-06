@@ -12,16 +12,9 @@
 **RN-S01:** El socio solo puede ver y gestionar la información de sus parcelas y las de su familia.
 
 
-**RN-S02:** El socio debe notificar el inicio de la recolección en una parcela específica.
+**RN-S02:** El socio puede activar o desactivar los cultivos para la actualización de previsiones.
 
-
-**RN-S03:** El socio puede activar o desactivar los cultivos para la actualización de previsiones.
-
-
-**RN-S04:** El socio debe notificar los tratamientos aplicados a sus cultivos (permitiendo registrar varios tratamientos).
-
-
-**RN-S05:** Las parcelas de un socio se marcarán en rojo si exceden el tiempo definido sin reportes de actividad, de acuerdo con los días específicos para cada variedad.]]></markdownProperty>
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

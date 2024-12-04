@@ -12,10 +12,7 @@
 **RN-A01:** El administrador tiene acceso completo al sistema, permitiendo alta y baja de usuarios, parcelas y cultivos.
 
 
-**RN-A02:** El administrador es responsable de supervisar la calidad y el control de operaciones del sistema.
-
-
-**RN-A03:** El administrador puede ver el histórico completo de información de todas las parcelas y usuarios, incluyendo visitas realizadas y reportes de ubicación generados por el controlador.]]></markdownProperty>
+**RN-A02:** El administrador puede ver el histórico completo de información de todas las parcelas y usuarios, incluyendo visitas realizadas y reportes de ubicación generados por el controlador.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
