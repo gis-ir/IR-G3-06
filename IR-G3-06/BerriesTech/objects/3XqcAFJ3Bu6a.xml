@@ -7,7 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[**RFB-002
-Respaldo de datos offline:** La aplicación debe permitir a los usuarios cargar datos incluso sin conexión y sincronizarlos con la base de datos cuando se recupere la conectividad.
+Respaldo de datos offline:** La aplicación debe permitir a los usuarios cargar datos de manera local cuando no haya conexión a internet, y sincronizarlos automáticamente con la base de datos una vez que la conectividad sea restablecida, con una tasa de fallo inferior a 1 de cada 100.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

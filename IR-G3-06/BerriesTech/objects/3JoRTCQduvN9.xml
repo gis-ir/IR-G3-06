@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[**RFB-004 Históricos de datos:** Los datos deben almacenarse de forma persistente para generar un historial accesible y completo.
+    <markdownProperty name="text" category="detail"><![CDATA[**RFB-004 Históricos de datos:** Los datos deben almacenarse de manera persistente en la base de datos, garantizando su disponibilidad durante al menos 10 años, y deben ser accesibles para su consulta completa en cualquier momento, sin pérdida de información.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

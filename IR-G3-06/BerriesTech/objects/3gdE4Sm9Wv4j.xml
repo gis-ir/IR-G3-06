@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[**RFB-005 Monitoreo en tiempo real:** Garantizar la actualización confiable de datos en tiempo real, como ritmos de producción o consumos de recursos.
+    <markdownProperty name="text" category="detail"><![CDATA[**RFB-005 Monitoreo en tiempo real:** El sistema debe garantizar la actualización confiable de datos en tiempo real, como ritmos de producción o consumos de recursos, con un intervalo máximo de actualización de 1 minuto y una tasa de éxito de actualización de al menos el 99.9%.
 
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>

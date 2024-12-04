@@ -7,8 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[**RFB-003 Gestión de notificaciones críticas:**
-El sistema debe generar notificaciones fiables cuando se alcancen valores críticos como el ritmo mínimo de producción o incumplimiento de normas por parte de los socios.
-]]></markdownProperty>
+El sistema debe generar notificaciones automáticas y fiables cuando se alcancen valores críticos, como no llevar el ritmo mínimo de producción o el incumplimiento de normas por parte de los socios, previamente determinados por la empresa; con un tiempo de respuesta máximo de 5 minutos desde que se detecte el evento. Las notificaciones automáticas deben tener una tasa de fallo inferior a 1 de cada 1000 para que se considere fiable.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

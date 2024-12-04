@@ -7,10 +7,9 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[
-1.**Compatibilidad multiplataforma**: La aplicación debe ser compatible con diferentes dispositivos móviles (iOS, Android) y tamaños de pantalla.
+1.**Compatibilidad multiplataforma**: La aplicación debe ser compatible con dispositivos móviles que utilicen los sistemas operativos iOS y Android, y debe adaptarse correctamente a una variedad de tamaños de pantalla (de 3 a 7 pulgadas) sin afectar la funcionalidad ni la experiencia del usuario.
 
-2.**Despliegue en múltiples ubicaciones**: El sistema debe poder implementarse en diferentes áreas geográficas y ajustarse a condiciones de red variables.
-]]></markdownProperty>
+2.**Despliegue en múltiples ubicaciones**: El sistema debe ser capaz de implementarse en diferentes áreas geográficas, adaptándose automáticamente a condiciones de red variables (como conexiones de baja velocidad o intermitentes) sin comprometer la disponibilidad o funcionalidad, con un tiempo de configuración máximo de 2 horas por nueva ubicación.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

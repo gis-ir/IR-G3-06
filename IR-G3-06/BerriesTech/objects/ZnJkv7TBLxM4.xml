@@ -7,7 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[**RFB-001 Estabilidad mínima del sistema:** 
-El sistema debe poder funcionar durante al menos 6 meses continuos sin requerir reinicios debido a fallos.]]></markdownProperty>
+El sistema debe ser capaz de operar de manera continua durante un período mínimo de 6 meses sin necesidad de reinicios por fallos técnicos.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
