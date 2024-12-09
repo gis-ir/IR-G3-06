@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4JiqutAsTY2U" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Rol de Controlador]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="3NCYf3d38pon"/>
+    <child id="3eEbaEy3JNAv"/>
+    <child id="69jnLWXPHySV"/>
+    <child id="3ckuYQBcRB46"/>
+    <child id="jV66eEZHj2q6"/>
+    <child id="qRdXUUs2voes"/>
+  </children>
+</object>
