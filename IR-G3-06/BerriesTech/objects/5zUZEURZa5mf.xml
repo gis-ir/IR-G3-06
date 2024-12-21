@@ -11,11 +11,11 @@
 
 1. El socio se encuentra en su pantalla principal
 2. El socio busca la parcela de la que quiere ver el historial
-3. En esa parcela el socio clica en el botón "Historial"
+3. En esa parcela el socio pulsa el botón "Historial"
 4. El sistema verifica que el socio es el dueño de esa parcela
 5. El socio es redirigido a la página de historial de la parcela seleccionada]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[Se ha de estar logueado como socio. Se ha de tener almenos una parcela al socio logueado]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se ve el historial de recojidas, avisos y activación/desactivación de la parcela]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Se ha de estar logueado como socio. Se ha de tener al menos una parcela al socio logueado]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se ve el historial de recolecta, avisos y activación/desactivación de la parcela]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

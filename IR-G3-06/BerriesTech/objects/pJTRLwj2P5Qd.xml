@@ -10,9 +10,9 @@
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse como se describe el siguiente caso de uso cuando un usuario solicite recordar su contraseña:
 
 1. El usuario se encuentra en la página de inicio de sesión
-2. El usuario clica sobre "He olvidado mi contraseña
-3. El sistema le redirige a la pastaña de recuperaxción de contraseña
-4. En  usuario rellena el formulario con su correo electrónico
+2. El usuario clica sobre "He olvidado mi contraseña"
+3. El sistema le redirige a la pestaña de recuperación de contraseña
+4. El  usuario rellena el formulario con su correo electrónico
 5. El sistema envía un mail al usuario con su contraseña.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario ha de estar registrado en la aplicación]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El usuario ya recuerda su contraseña]]></markdownProperty>

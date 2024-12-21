@@ -12,7 +12,7 @@
 1. El usuario solicita iniciar sesión
 2. El sistema le pedirá al usuario, su email y contraseña
 3. El sistema verificará esta información
-4. En caso de ser correcta el sistema lo redirigiraá a su página de inicio]]></markdownProperty>
+4. En caso de ser correcta el sistema lo redirigirá a su página de inicio]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario ha de estar registrado en la aplicación]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El usuario ya estará dentro de la aplicación]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
