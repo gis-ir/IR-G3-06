@@ -6,11 +6,22 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Las funcionalidades básicas de un sistema MES son las de conectar, supervisar y controlar un sistema de fabricación complejos y encargarse del seguimiento de los datos de la producción en tiempo real.
+    <markdownProperty name="text" category="detail"><![CDATA[
 
-La implementación de este software va a requerir de SCADA, el cuál se usará para gestionar y coontrolar los equipos en producción.
+En lugar de duplicar funcionalidades, el objetivo es construir un sistema complementario que utilice la información del MES y amplíe su capacidad para incluir la gestión y tratamiento de información clave relacionada con la recolección de frutas. Esto incluirá datos como métodos de recolección empleados, tipos de pesticidas e insecticidas utilizados, y fechas de siembra y recolección, además de optimizar los procesos actuales.
 
- Con esto facilitaremos a CoopHuelva la asignación de recurso a cada uno de los distintos procesos, el monitereo de las berries y empleados en tiempo real durante toda la etapa de producción, y, la capacidad de emitir  informes, cuadros de mando y capacidades analíticas para realizar un seguimiento de la producción, utilización de recursos y el rendimiento de los equipos.]]></markdownProperty>
+
+Para facilitar estas tareas, se empleará SCADA para gestionar y controlar los equipos de producción en tiempo real. Esto permitirá a CoopHuelva asignar recursos eficientemente a los distintos procesos, monitorear en tiempo real las "berries", el desempeño de los empleados, y emitir informes detallados con cuadros de mando y capacidades analíticas.
+
+
+En este contexto, se identifican dos grandes procesos que serán clave para el éxito del proyecto:
+
+**Recogida y análisis de información:** El sistema deberá integrar datos generados por la planta en tiempo real, provenientes tanto del sistema MES existente como de otras fuentes. Esta información será procesada para generar análisis y reportes valiosos para los responsables de las operaciones.
+**Asignación y monitoreo de recursos:** El sistema facilitará el seguimiento en tiempo real de recursos humanos, materiales y procesos, asegurando la asignación eficiente de recursos disponibles en cada etapa de la producción.
+Este enfoque permitirá a CoopHuelva optimizar el uso de sus recursos, mejorar su trazabilidad, y dar un paso importante hacia la transformación digital de su planta, maximizando la eficiencia sin duplicar esfuerzos en la infraestructura ya existente.
+
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -8,9 +8,14 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Antes de empezar debemos tener claro cuál es el objetivo de nuestro cliente.
 
-Nuestro cliente, CoopHuelva, una empresa de insumo, la cuál recibe gran parte de sus ingresos del tratamiento de "berries" en una planta de procesamiento. La empresa desea digitalizar esta planta para obtener una mayor eficiencia y poder recolectar una mayor cantidad de datos, los cuales le ayudaran en un futuro a optimizar aún mas la planta.
 
-Esta digitalización desean llevarla acabo mediante la utilización de un sistema MES]]></markdownProperty>
+CoopHuelva es una empresa dedicada al tratamiento y procesamiento de "berries", así como a la venta de insumos necesarios para su producción. Una parte significativa de sus ingresos proviene de su planta de producción. Con el objetivo de mejorar la eficiencia operativa y recopilar datos más detallados para optimizar sus procesos, la empresa busca digitalizar tanto las operaciones de su planta de procesamiento como los aspectos relacionados con el cultivo de berries realizado por los socios que la conforman.
+
+
+Además, se desea mostrar en tiempo real los datos recopilados y tratados, junto con métricas y estadísticas relevantes que puedan ser de utilidad para la toma de decisiones estratégicas.
+Actualmente, CoopHuelva cuenta con un sistema MES que almacena información valiosa sobre la planta, como horas de entrada y salida de los trabajadores, camiones que entran y salen, y datos sobre la cantidad y tipo de fruta envasada. Este sistema existente representa una fuente de datos que será aprovechada y extendida por el nuevo sistema.
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
