@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="Dn5bx4Jsyos8" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos Logísticos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Número de cajas de fruta clasificadas (por tipo y variedad).
+Fecha de corte de las cajas (fecha máxima para consumo).
+Datos de camiones:
+Número de camiones que entran y salen de la planta.
+Matrícula.
+Empresa externa asociada (si aplica).
+Contenido de los camiones (tipos y cantidades de fruta).
+Destino de los camiones.
+Histórico completo de datos logísticos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

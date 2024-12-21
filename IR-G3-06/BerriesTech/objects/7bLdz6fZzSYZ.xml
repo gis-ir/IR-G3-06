@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7bLdz6fZzSYZ" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos de Parcela]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Mapa de parcelas pertenecientes al socio.
+Extensión de cada parcela.
+Fruta cultivada y variedad (por ejemplo: fresas silvestres).
+Fechas:
+Fecha de siembra.
+Fecha de recolección.
+Método de recolección.
+Tratamientos aplicados.
+Comentarios opcionales de los socios.
+Histórico completo de todos estos datos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

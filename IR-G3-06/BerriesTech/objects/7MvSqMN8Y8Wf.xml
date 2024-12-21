@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7MvSqMN8Y8Wf" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos de Administrador]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Usuarios añadidos o eliminados (socios y controladores).
+Fecha de cada alta o baja.
+Acceso al histórico de socios.
+Acceso al histórico de controladores.
+Histórico completo de cambios realizados por el administrador.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

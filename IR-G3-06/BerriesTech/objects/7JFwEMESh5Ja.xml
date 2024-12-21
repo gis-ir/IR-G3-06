@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7JFwEMESh5Ja" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Datos de Históricos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Histórico de datos de parcelas de los socios.
+Histórico de inspecciones realizadas por los controladores.
+Histórico de cambios realizados por los administradores.
+Histórico de datos logísticos (cajas, camiones, etc.).]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
