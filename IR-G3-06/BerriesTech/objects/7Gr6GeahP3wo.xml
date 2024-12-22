@@ -4,5 +4,30 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de la interfaz de servicios del sistema]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="5ae3aAvkvsCK"/>
+    <child id="79R9U9aecAPa"/>
+    <child id="Kf7QjnPGBLiv"/>
+    <child id="5TjBW3y7GRNo"/>
+    <child id="4yW4JptRLfa7"/>
+    <child id="7mz6KPaWP9To"/>
+    <child id="6eBXHpogKWGu"/>
+    <child id="5emdisrD6xvf"/>
+    <child id="7YLiomojNshH"/>
+    <child id="82W8PkQXK6L3"/>
+    <child id="3mSEj2AeSb3L"/>
+    <child id="5ygaa2rgfcdG"/>
+    <child id="7LKGjgCA9sF2"/>
+    <child id="3Udp76Gkg55Z"/>
+    <child id="7e8J7nrc34F8"/>
+    <child id="36k2NBv7kJTA"/>
+    <child id="7EAX8q3dwis3"/>
+    <child id="4wLWEEpnJJvQ"/>
+    <child id="CRrNSGTxbSNj"/>
+    <child id="3ApntZ8VBsvE"/>
+    <child id="4Fd2h3gcSkLz"/>
+    <child id="6soyXxejw4jC"/>
+    <child id="8FMxsc8UHZEK"/>
+    <child id="6dQMXY3L8rsJ"/>
+  </children>
 </object>
