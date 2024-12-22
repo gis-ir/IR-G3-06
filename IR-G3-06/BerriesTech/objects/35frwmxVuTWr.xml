@@ -36,6 +36,7 @@ Secuencia normal:
       <trace target="7QC2G9NybRP6" traceType=":Proteus-dependency"/>
       <trace target="7EYidkbVrQkr" traceType=":Proteus-dependency"/>
       <trace target="4vkewXnsiNhE" traceType=":Proteus-dependency"/>
+      <trace target="4AZY2bepP8Mq" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
