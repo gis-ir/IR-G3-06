@@ -1,0 +1,18 @@
+VIDEO DEL PROTOTIPO FUNCIONAL: https://drive.google.com/file/d/1obPMKYA0RZThwJ7kUnNw8sP6ey0Fy2HY/view?usp=drive_link
+
+
+
+
+
+PROTOTIPO FUNCIONAL: https://78wq41.axshare.com/?g=4
+
+Para inciar sesión:
+como socio:	
+	nombre de usuario: socio
+	contraseña: socio
+como controlador:
+	nombre de usuario: controlador
+	contraseña: controlador
+como administrador:
+	nombre de usuario: administrador
+	contraseña: administrador
