@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8MNmLryzmjoD" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[parameter]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[familia]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[description]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[La familia a la que pertenece la parcela]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

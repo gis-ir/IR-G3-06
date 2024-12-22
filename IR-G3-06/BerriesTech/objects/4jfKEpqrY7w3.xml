@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="z4VA9qRJh8Ko" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
+<object id="4jfKEpqrY7w3" classes="parameter" acceptedChildren=":Proteus-none" acceptedParents="system-operation">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[email]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[ Correo electrónico registrado.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Email del usuario
+]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
