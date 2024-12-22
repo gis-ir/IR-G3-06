@@ -11,7 +11,9 @@
     <markdownProperty name="description" category="detail"><![CDATA[Valida las credenciales del usuario para iniciar sesión en la aplicación.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="7mATHDwn6CT6" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>

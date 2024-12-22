@@ -23,6 +23,7 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="4xw95ZxpJpjc" traceType=":Proteus-dependency"/>
       <trace target="7QC2G9NybRP6" traceType=":Proteus-dependency"/>
+      <trace target="4HFYgmTxXCAC" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

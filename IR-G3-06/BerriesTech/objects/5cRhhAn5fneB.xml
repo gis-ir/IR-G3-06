@@ -9,13 +9,10 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Trazabilidad requisitos funcionales a mockups]]></markdownProperty>
     <classListProperty name="row-classes" category="detail">
-      <class><![CDATA[business-rule]]></class>
-      <class><![CDATA[functional-requirement]]></class>
-      <class><![CDATA[information-requirement]]></class>
-      <class><![CDATA[use-case]]></class>
+      <class><![CDATA[mockup]]></class>
     </classListProperty>
     <classListProperty name="col-classes" category="detail">
-      <class><![CDATA[mockup]]></class>
+      <class><![CDATA[use-case]]></class>
     </classListProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

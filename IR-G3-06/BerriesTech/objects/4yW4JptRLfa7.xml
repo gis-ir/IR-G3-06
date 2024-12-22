@@ -11,7 +11,11 @@
     <markdownProperty name="description" category="detail"><![CDATA[Recupera los roles de los usuarios disponibles en el sistema.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="4HFYgmTxXCAC" traceType=":Proteus-dependency"/>
+      <trace target="3DaBVbgaGvKM" traceType=":Proteus-dependency"/>
+      <trace target="4KQYk2RYu2Kj" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

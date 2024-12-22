@@ -10,7 +10,13 @@
     <booleanProperty name="is-abstract" category="detail" tooltip="is-abstract">false</booleanProperty>
     <traceProperty name="superclass" category="detail" acceptedTargets="entity-class" traceType=":Proteus-dependency" maxTargetsNumber="1"/>
     <markdownProperty name="description" category="detail"><![CDATA[Representa una revisión de una Parcela por parte de un Controlador para asegurar el correcto funcionamiento de la misma]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="35frwmxVuTWr" traceType=":Proteus-dependency"/>
+      <trace target="79RoQuXeV8oW" traceType=":Proteus-dependency"/>
+      <trace target="8K3nib5pHpau" traceType=":Proteus-dependency"/>
+      <trace target="5FBGUWX6qsbr" traceType=":Proteus-dependency"/>
+      <trace target="39GDJSiXNS52" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
