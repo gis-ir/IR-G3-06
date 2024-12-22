@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="36DhrD7h5oZG" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[1. Acceso al Sistema MES de CoopHuelva]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[**Servicios consumidos por el sistema**:
+
+**1. Acceso al Sistema MES de CoopHuelva**
+ 
+Descripción: 
+
+ El sistema que estamos desarrollando consumirá información proporcionada por el sistema MES existente, que incluye: 
+
+- Horas de entrada y salida de los trabajadores. 
+
+- Registro de camiones cargados y su contenido. 
+Información de frutas procesadas, clasificadas y envasadas. 
+
+- Datos sobre productos que vienen defectuosos. 
+
+Utilidad para el sistema: 
+
+- Verificar el estado de la producción y enlazarlo con datos de recolectas realizadas.
+ 
+- Calcular métricas relacionadas con la trazabilidad de la fruta desde la recolección hasta el envasado. 
+
+- Generar alertas en caso de discrepancias entre las frutas recolectadas y las entregadas en la planta. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7QGFvrrwJkd6" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[2. Bases de Datos Internas de CoopHuelva]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[**2. Bases de Datos Internas de CoopHuelva**
+ 
+Descripción: 
+
+El sistema consumirá información almacenada en las bases de datos internas de CoopHuelva, que incluye:
+
+- Registros históricos de cosechas y entregas. 
+
+- Inventarios de insumos agrícolas entregados a socios. 
+
+- Información sobre parcelas, socios y lotes de cultivo. 
+
+
+Utilidad para el sistema: 
+
+- Gestionar las parcelas pertenecientes a los socios y vincularlas con las recolectas realizadas. 
+ 
+- Proveer un histórico de datos para calcular métricas como productividad por parcela o eficiencia de los métodos de recolección. 
+
+- Generar reportes detallados para los socios y gerentes. ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
