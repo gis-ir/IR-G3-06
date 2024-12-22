@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3oejWoZ98H6n" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tipoVariedad]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[List<string>]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Tipo y variedad de las cajas de fruta dentro del paquete]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

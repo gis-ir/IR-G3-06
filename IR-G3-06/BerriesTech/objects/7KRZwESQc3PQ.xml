@@ -12,7 +12,8 @@
 1. El administrador se encuentra en la ventana de administración de usuario
 2. En el listado de socio pulsa sobre el botón "añadir parcela" del socio al que desea añadirsela
 3. El administrador añade la ubicación de la parcela
-4. El sistema recibe esta información y crea una parcela con la dirección y socio seleccionados]]></markdownProperty>
+4. El sistema recibe esta información y crea una parcela con la dirección y socio seleccionados
+5. El sistema notifica al socio que esté asociado con la parcela y a los administradores]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[Se ha de estar logueado como administrador. Ha de existir al menos un socio]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se ha creado una parcela para un socio dado]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>

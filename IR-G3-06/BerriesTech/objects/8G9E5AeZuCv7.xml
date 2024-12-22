@@ -13,7 +13,7 @@ Representa la acción de añadir o eliminar usuarios por parte de un administrad
 Tiene los atributos:
 
 - Fecha: De tipo date
-- Acción: De tipo string
+- Acción: De tipo enum
 
 Relaciones:
 
