@@ -1,20 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="85W8TQiuJUEN" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+<object id="4mdedV37yPq4" classes="model-element mockup" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[10.Pantalla Principal administrador]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[MOCK-]]></prefix><number>015</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Pantalla principal administrador]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[**10.Pantalla Principal administrador**
-
-- Encabezado:
+    <markdownProperty name="description" category="detail"><![CDATA[- Encabezado:
 
 	- Indica que el usuario actual es el Administrador.
 
 	- Logotipo de la organización (Coop Huelva) ubicado en la esquina superior derecha.
 
 - Sección de Parcelas:
+
+	- Botón de estadísticas:
+
+		- Lleva a la pantalla de estadísticas.
 
 	- Cada parcela está representada por una tarjeta que contiene:
 		- Nombre y dirección: Identificación básica de la parcela.
@@ -33,7 +36,9 @@
 - Botón "Gestionar Usuarios" para acceder al módulo correspondiente.
 
 ]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[ADMINISTRADOR PAGINA GENERAL.PNG]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

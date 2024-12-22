@@ -9,10 +9,11 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse como se describe el siguiente caso de uso cuando un administrador desee añadir a un socio:
 
-1. El administrador desde la pestaña de Listado de usuarios pulsa sobre uno de los siguientes botones: "Añadir Usuario", "Añadir Controlador", "Añadir administrador"
+1. El administrador desde la pestaña de Listado de usuarios pulsa sobre el botón de "Añadir Usuario"
 2. El sistema redirige al administrador a la página de registro de usuarios
 3. El administrador rellena el formulario con el rol, nombre, apellido, usuario y contraseña
-4. El sistema agrega al usuario con la información dada]]></markdownProperty>
+4. El sistema agrega al usuario con la información dada
+5. El sistema notifica a todos los administrador confirmando la correcta creación del usuario]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[Se ha de estar loguado  como administrador]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se ha añadido un usuario]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
